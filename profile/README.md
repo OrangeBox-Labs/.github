@@ -6,7 +6,7 @@
 
 ## ¿Qué hacemos?
 
-En OrangeBox Labs compartimos **todo lo que sabemos** sobre infraestructura y seguridad: hardening de Linux, virtualización, cloud, contenedores, seguridad perimetral, automatización y herramientas útiles.
+En OrangeBox compartimos **todo lo que sabemos** sobre infraestructura y seguridad: hardening de Linux, virtualización, cloud, contenedores, seguridad perimetral, automatización y herramientas útiles.
 
 No nos guardamos nada. Todo lo que hacemos es 100% **open-source**, basado en estándares y mejores prácticas, y está hecho para que lo uses, lo modifiques y lo mejores.
 
@@ -27,16 +27,15 @@ No nos guardamos nada. Todo lo que hacemos es 100% **open-source**, basado en es
 | 🔧 **Herramientas** | Utilidades, forks mejorados, adaptaciones para casos reales |
 
 ---
-
 ## 📦 Proyectos destacados
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **Linux-Hardening** | Colección de scripts de hardening basados en CIS Benchmarks |
-| **corkscrew (fork)** | Túneles SSH dentro de proxies HTTP para entornos restrictivos |
-| **Wazuh agent installer** | Automatización para desplegar agente Wazuh en servidores Linux |
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| **Linux-Hardening** | Colección de scripts de hardening basados en CIS Benchmarks | [Ver repositorio →](https://github.com/OrangeBox-Labs/Linux-Hardening) |
+| **corkscrew (fork)** | Túneles SSH dentro de proxies HTTP para entornos restrictivos | [Ver repositorio →](https://github.com/OrangeBox-Labs/corkscrew) |
+| **Wazuh agent installer** | Automatización para desplegar agente Wazuh en servidores Linux | [Ver repositorio →](https://github.com/OrangeBox-Labs/wazuh-agent-installer) |
 
-🔍 [Ver todos los repositorios →](https://github.com/OrangeBox-Labs)
+🔍 [Ver todos los repositorios de la organización →](https://github.com/OrangeBox-Labs)
 
 ---
 
