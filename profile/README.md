@@ -33,7 +33,7 @@ No nos guardamos nada. Todo lo que hacemos es 100% **open-source**, basado en es
 |----------|-------------|--------|
 | **Linux-Hardening** | Colección de scripts de hardening basados en CIS Benchmarks | [Ver repositorio →](https://github.com/OrangeBox-Labs/Linux-Hardening) |
 | **corkscrew (fork)** | Túneles SSH dentro de proxies HTTP para entornos restrictivos | [Ver repositorio →](https://github.com/OrangeBox-Labs/corkscrew) |
-| **Wazuh agent installer** | Automatización para desplegar agente Wazuh en servidores Linux | [Ver repositorio →](https://github.com/OrangeBox-Labs/wazuh-agent-installer) |
+| **Wazuh agent installer** | Automatización para desplegar agente Wazuh en servidores Linux | [Ver repositorio →](https://github.com/OrangeBox-Labs/wazuh) |
 
 🔍 [Ver todos los repositorios de la organización →](https://github.com/OrangeBox-Labs)
 
