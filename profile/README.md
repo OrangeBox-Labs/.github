@@ -14,32 +14,33 @@ No nos guardamos nada. Todo lo que hacemos es 100% **open-source**, basado en es
 
 ---
 
-## 🚀 ¿Qué vas a encontrar?
+##  ¿Qué vas a encontrar?
 
 | Área | Qué verás |
 |------|-----------|
-| 🐧 **Linux** | Scripts de hardening, auditorías, buenas prácticas |
-| 🔷 **VMware** | Configuraciones, despliegues optimizados y seguridad en el hypervisor |
-| ☁️ **Cloud** | Google Cloud, AWS: despliegues, políticas y hardening en la nube |
-| 🐳 **K8s** | Seguridad en contenedores, buenas prácticas y despliegues automatizados |
-| 🔥 **Seguridad perimetral** | Firewalls, proxies, Zero Trust, IDS/IPS, VPNs, DMZ |
-| ⚙️ **Automatización** | Scripting, CI/CD, infraestructura como código |
-| 🔧 **Herramientas** | Utilidades, forks mejorados, adaptaciones para casos reales |
+|  **Linux** | Scripts de hardening, auditorías, buenas prácticas |
+|  **VMware** | Configuraciones, despliegues optimizados y seguridad en el hypervisor |
+|  **Cloud** | Google Cloud, AWS: despliegues, políticas y hardening en la nube |
+|  **Seguridad perimetral** | Firewalls, proxies, Zero Trust, IDS/IPS, VPNs, DMZ |
+|  **Automatización** | Scripting, CI/CD, infraestructura como código |
+|  **Herramientas** | Utilidades, forks mejorados, adaptaciones para casos reales |
 
 ---
-## 📦 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
 | **Linux-Hardening** | Colección de scripts de hardening basados en CIS Benchmarks | [Ver repositorio →](https://github.com/OrangeBox-Labs/Linux-Hardening) |
+| **Zabbix** | Automatización y plantillas para monitorear infraestrucura con Zabbix | [Ver repositorio →](https://github.com/OrangeBox-Labs/Zabbix) |
+| **OpenVPN** | Automatización y Guías para implementar y administrar servidores OpenVPN | [Ver repositorio →](https://github.com/OrangeBox-Labs/openvpn) |
+| **Wazuh** | Automatización para desplegar Wazuh y sus configuraciones en servidores Linux | [Ver repositorio →](https://github.com/OrangeBox-Labs/wazuh) |
 | **corkscrew (fork)** | Túneles SSH dentro de proxies HTTP para entornos restrictivos | [Ver repositorio →](https://github.com/OrangeBox-Labs/corkscrew) |
-| **Wazuh agent installer** | Automatización para desplegar agente Wazuh en servidores Linux | [Ver repositorio →](https://github.com/OrangeBox-Labs/wazuh) |
 
 🔍 [Ver todos los repositorios de la organización →](https://github.com/OrangeBox-Labs)
 
 ---
 
-## 🛠️ Scripts de hardening destacados
+##  Scripts de hardening destacados
 
 | Script | Función |
 |--------|---------|
@@ -52,22 +53,22 @@ No nos guardamos nada. Todo lo que hacemos es 100% **open-source**, basado en es
 
 ---
 
-## 🔗 Enlaces de interés
+##  Enlaces de interés
 
 | Ícono | Recurso | Qué encontrarás |
 |-------|---------|-----------------|
-| 📝 | **[Blog de OrangeBox](https://www.orangebox.cl/blog/)** | Artículos técnicos de hardening, Zero Trust, instalaciones seguras y más |
-| 🎥 | **[Canal de YouTube](https://www.youtube.com/@OrangeBoxLinux)** | Ataques reales, defensas paso a paso y guías prácticas |
-| 🐙 | **[Organización GitHub](https://github.com/OrangeBox-Labs)** | Todos los repositorios open-source del proyecto |
+|  **[Blog de OrangeBox](https://www.orangebox.cl/blog/)** | Artículos técnicos de hardening, Zero Trust, instalaciones seguras y más |
+|  **[Canal de YouTube](https://www.youtube.com/@OrangeBoxLinux)** | Ataques reales, defensas paso a paso y guías prácticas |
+|  **[Organización GitHub](https://github.com/OrangeBox-Labs)** | Todos los repositorios open-source del proyecto |
 
 ---
 
-## 🤝 ¿Necesitas ayuda profesional?
+##  ¿Necesitas ayuda profesional?
 
 Ofrecemos servicios de hardening, auditorías de seguridad, despliegues cloud, implementación de SIEM (Wazuh) y automatización para PyMEs.
 
-📧 **Contacto**: info@orangebox.cl  
-🌐 **Web**: [www.orangebox.cl](https://www.orangebox.cl)
+ **Contacto**: info@orangebox.cl  
+ **Web**: [www.orangebox.cl](https://www.orangebox.cl)
 
 ---
 
